@@ -24,4 +24,6 @@ This is not a conference. We endeavor to leave a lot of time for discussion and 
 
 **Where:** Novartis Personalrestaurant - Gärtnerstrasse 2, 4057 Basel (WKL-610-P-AUD_M | Tram station: Ciba – See red box in map below)
 
+You might want to (but don't have to) register for this event on [our Meetup page](https://www.meetup.com/Basel-Computational-Methods-for-Research-Community-BCMRC/events/246192504/)
+
 ## Questions to the panelists
